@@ -1,21 +1,3 @@
-# demovue
+## 日常开发vue项目中经常会用到的几个包，vuex，router，axios等，还有一些拦截处理，会重复使用这些东西，于是我就整理了一下该template项目，方便日后个人开发中避免重复导包配置
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# git clone git://github.com/schacon/grit.git
